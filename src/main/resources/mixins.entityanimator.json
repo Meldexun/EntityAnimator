@@ -1,0 +1,16 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "meldexun.entityanimator.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "refmap": "mixins.entityanimator.refmap.json",
+  "mixins": [
+  ],
+  "client": [
+    "MixinRenderManager",
+    "MixinTileEntityRendererDispatcher"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

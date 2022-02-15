@@ -1,0 +1,11 @@
+[
+{
+  "modid": "entityanimator",
+  "name": "EntityAnimator",
+  "version": "1.0.0",
+  "url": "https://github.com/Meldexun/EntityAnimator",
+  "authorList": ["Meldexun"],
+  "requiredMods": ["chunkanimator@[1.2,)"],
+  "useDependencyInformation": true
+}
+]
